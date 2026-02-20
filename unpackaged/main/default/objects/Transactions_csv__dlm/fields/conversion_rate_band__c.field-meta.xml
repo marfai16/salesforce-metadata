@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>conversion_rate_band__c</fullName>
+    <label>conversion_rate_band</label>
+    <length>60</length>
+    <mktDataModelFieldAttributes>
+        <definitionCreationType>Custom</definitionCreationType>
+        <isDynamicLookup>false</isDynamicLookup>
+        <labelOverride>conversion_rate_band</labelOverride>
+        <masterLabel>conversion_rate_band</masterLabel>
+        <usageTag>None</usageTag>
+    </mktDataModelFieldAttributes>
+    <required>false</required>
+    <type>Text</type>
+</CustomField>

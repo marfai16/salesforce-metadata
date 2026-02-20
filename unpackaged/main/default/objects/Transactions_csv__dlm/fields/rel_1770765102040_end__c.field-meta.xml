@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>rel_1770765102040_end__c</fullName>
+    <deleteConstraint>SetNull</deleteConstraint>
+    <label>Transactions_csv_account_id_map_ssot_rel</label>
+    <referenceTo>ssot__Account__dlm</referenceTo>
+    <relationshipLabel>Transactions_csv_account_id_map_ssot_rel</relationshipLabel>
+    <relationshipName>rel_1770765102040_end</relationshipName>
+    <required>false</required>
+    <type>Lookup</type>
+</CustomField>

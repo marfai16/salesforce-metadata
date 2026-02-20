@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>lead_source__c</fullName>
+    <label>lead_source</label>
+    <length>60</length>
+    <mktDataModelFieldAttributes>
+        <definitionCreationType>Custom</definitionCreationType>
+        <isDynamicLookup>false</isDynamicLookup>
+        <labelOverride>lead_source</labelOverride>
+        <masterLabel>lead_source</masterLabel>
+        <usageTag>None</usageTag>
+    </mktDataModelFieldAttributes>
+    <required>false</required>
+    <type>Text</type>
+</CustomField>
